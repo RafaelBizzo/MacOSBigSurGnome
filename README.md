@@ -47,6 +47,6 @@ Abra o Extensions App e ative o Floating Dock e o User Themes, em seguida abra o
 
 Agora vá na aba de Janelas e coloque a posição dos botões para a esquerda.
 
-## Conclusão
+# Conclusão
 
 Vale a pena utilizar o sistema dessa formal, bem parecido com MacOS. Repositório criado apenas para indexar links de Download.
