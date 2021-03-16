@@ -42,3 +42,11 @@ sudo apt install gnome-tweaks
 Abra o Firefox e vá para [Gnome Extensions](https://extensions.gnome.org/), instale a extensão do Firefox e depois instale duas extensões no site: User Themes, e Floating Dock
 
 Abra o Extensions App e ative o Floating Dock e o User Themes, em seguida abra o Tweaks e vá em aparência e selecione o seguinte:
+
+![](https://raw.githubusercontent.com/RafaelBizzo/MacOSBigSurGnome/main/src/Tweaks.png)
+
+Agora vá na aba de Janelas e coloque a posição dos botões para a esquerda.
+
+## Conclusão
+
+Vale a pena utilizar o sistema dessa formal, bem parecido com MacOS. Repositório criado apenas para indexar links de Download.
