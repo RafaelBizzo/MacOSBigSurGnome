@@ -24,7 +24,7 @@ Descompactar e soltar os arquivos em `/usr/share/icons` como sudo.
 
 ## Aplicar tema do cursor no GDM
 
-Abra o arquivo `/usr/share/themes/default/index.theme` como sudo e onde modifique:
+Abra o arquivo `/usr/share/icons/default/index.theme` como sudo e onde modifique:
 
 ```
 [Icon Theme]
@@ -41,7 +41,9 @@ sudo apt install gnome-tweaks
 
 Abra o Firefox e vá para [Gnome Extensions](https://extensions.gnome.org/), instale a extensão do Firefox e depois instale três extensões no site: User Themes, Floating Dock e Frippery Move Clock.
 
-Abra o Tweaks, vá em aparência e selecione o seguinte:
+Rode o programa Extensions e desative o Ubuntu Dock, também não esqueça de abrir as configurações do Floating Dock para desativar o Intelligent autohide e o Panel mode: extend to the screen edge.
+
+Agora abra o Tweaks, vá em aparência e selecione o seguinte:
 
 ![](https://raw.githubusercontent.com/RafaelBizzo/MacOSBigSurGnome/main/src/Tweaks.png)
 
