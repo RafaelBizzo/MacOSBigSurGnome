@@ -39,9 +39,9 @@ Instalar o gnome tweaks no Ubuntu via:
 sudo apt install gnome-tweaks
 ```
 
-Abra o Firefox e vá para [Gnome Extensions](https://extensions.gnome.org/), instale a extensão do Firefox e depois instale duas extensões no site: User Themes, e Floating Dock
+Abra o Firefox e vá para [Gnome Extensions](https://extensions.gnome.org/), instale a extensão do Firefox e depois instale três extensões no site: User Themes, Floating Dock e Frippery Move Clock.
 
-Abra o Extensions App e ative o Floating Dock e o User Themes, em seguida abra o Tweaks e vá em aparência e selecione o seguinte:
+Abra o Tweaks, vá em aparência e selecione o seguinte:
 
 ![](https://raw.githubusercontent.com/RafaelBizzo/MacOSBigSurGnome/main/src/Tweaks.png)
 
