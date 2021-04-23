@@ -15,7 +15,7 @@ Um Tutorial Simples para transformar seu Gnome em MacOS Big Sur.
 Clone o repositório, e rode:
 
 ```
-sudo bash install.sh -g
+sudo bash install.sh
 ```
 
 ## Tema de Icones e do Cursor
